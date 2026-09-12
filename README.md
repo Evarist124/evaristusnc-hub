@@ -35,7 +35,7 @@ Welcome to my Governance, Risk, and Compliance (GRC) portfolio. This portfolio s
 
 - ## Tools & Platforms
 
-- ServiceNow | Archer |AuditBoard | Vanta | H-Trust | Drata | Jira | Okta | Metric Stream
+- ServiceNow | Archer |AuditBoard | Vanta | Drata | Jira | Okta | Metric Stream
 
 - ## Connect With Me
 
